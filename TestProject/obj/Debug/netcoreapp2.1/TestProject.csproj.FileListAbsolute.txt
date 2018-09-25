@@ -1,0 +1,14 @@
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\bin\Debug\netcoreapp2.1\TestProject.deps.json
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\bin\Debug\netcoreapp2.1\TestProject.runtimeconfig.json
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\bin\Debug\netcoreapp2.1\TestProject.runtimeconfig.dev.json
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\bin\Debug\netcoreapp2.1\TestProject.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\bin\Debug\netcoreapp2.1\TestProject.pdb
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\obj\Debug\netcoreapp2.1\TestProject.csprojAssemblyReference.cache
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\obj\Debug\netcoreapp2.1\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\obj\Debug\netcoreapp2.1\TestProject.AssemblyInfoInputs.cache
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\obj\Debug\netcoreapp2.1\TestProject.AssemblyInfo.cs
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\obj\Debug\netcoreapp2.1\TestProject.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\TestProject\obj\Debug\netcoreapp2.1\TestProject.pdb

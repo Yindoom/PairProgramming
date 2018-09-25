@@ -1,0 +1,14 @@
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\PairProgramming.deps.json
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\PairProgramming.runtimeconfig.json
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\PairProgramming.runtimeconfig.dev.json
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\PairProgramming.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\PairProgramming.pdb
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.csprojAssemblyReference.cache
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.AssemblyInfoInputs.cache
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.AssemblyInfo.cs
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.dll
+C:\Users\Yindo\Desktop\CSharp\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.pdb
